@@ -1,4 +1,4 @@
-# Common-Causes-of-Death-
+# Common-Causes-of-Death-Analysis
 Analyze common causes of death internationally and develop conclusions. 
 
 ## Grant G. Justin B. Karuna K. Harleen K. Thomas N. Joseph C.
